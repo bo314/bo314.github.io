@@ -96,35 +96,3 @@
     display: block;
 }
 
-.foot{
-    width: 100%;
-    margin-top: 50%;
-    height: 200px;
-    background-color: #008ED6;
-    padding-top: 20px;
-}
-
-.other, .addr, .contact{
-    width: 25%;
-    height:100%;
-}
-.addr{
-    margin-left: 25%;
-    margin-top: -216px;
-}
-
-.contact{
-    margin-left: 50%;
-    margin-top: -216px;
-}
-
-.foot li{
-    list-style: none;
-    color: white;
-    font-family: "Century Gothic";
-}
-
-.title{
-    font-weight: bold;
-
-}
