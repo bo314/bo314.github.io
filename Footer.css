@@ -1,9 +1,12 @@
 .foot{
+    border-top: solid;
+    border-width: 10px;
+    border-top-color: #60C659;
     width: 100%;
     margin-top: 50%;
     height: 200px;
     background-color: #008ED6;
-    padding-top: 20px;
+
 }
 
 .other, .addr, .contact{
