@@ -1,11 +1,14 @@
+/* Used for every page that has a footer */
+
 .foot{
+    position: relative;
     border-top: solid;
     border-width: 10px;
-    border-top-color: #60C659;
+    border-top-color: rgba(96,198,89, .7);
     width: 100%;
-    margin-top: 50%;
+    margin-top: -16%;
     height: 200px;
-    background-color: #008ED6;
+    background-color: rgba(0,142,214, .7);
 
 }
 

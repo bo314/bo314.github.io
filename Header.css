@@ -1,3 +1,5 @@
+/* Used for every page that has a header */
+
 .infra-logo {
     width:200px;
     margin-left: 20px;
@@ -53,9 +55,20 @@
     font-weight: bold;
 }
 
+.szlogin{
+    margin-top: -35px;
+}
+
 .login {
-    margin-left: 50%;
-    background-color: #60C659;
+    margin-left: 87%;
+    padding: 15px 11px 14px;
+    text-decoration: none;
+    font-family: "Century Gothic";
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+
 }
 
 .dropdown {
@@ -74,7 +87,7 @@
     font-family: "Century Gothic";
 }
 
-.container a:hover, .dropdown:hover .dropbtn {
+.container a:hover, .dropdown:hover .dropbtn, .login:hover {
     opacity: 0.5;
 }
 
