@@ -12,7 +12,7 @@
 
 }
 
-.other, .addr, .contact{
+.other, .addr, .contact, .shortcuts{
     width: 25%;
     height:100%;
 }
@@ -24,6 +24,19 @@
 .contact{
     margin-left: 50%;
     margin-top: -216px;
+}
+.shortcuts{
+    margin-left: 75%;
+    margin-top: -216px;
+}
+
+.shortcuts a{
+    text-decoration: none;
+    color:white;
+}
+
+.shortcuts a:hover{
+    opacity: 0.5;
 }
 
 .foot li{
